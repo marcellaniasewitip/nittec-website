@@ -67,7 +67,7 @@ const AboutSection = () => {
             className="relative rounded-2xl overflow-hidden"
           >
             <img
-              src="/images/about-bg.jpg"
+              src="images/about-bg.jpg"
               alt="NITTEC Engineering Team"
               className="w-full h-full object-cover min-h-[300px]"
             />

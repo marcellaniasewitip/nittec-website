@@ -10,7 +10,7 @@ const CtaSection = () => {
     <section id="why-us" className="section-padding relative overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/cta-bg.jpg')" }}
+        style={{ backgroundImage: "url('images/cta-bg.jpg')" }}
       />
       <div className="absolute inset-0 bg-background/85" />
 

@@ -8,7 +8,7 @@ const teamMembers = [
     role: "HEF / Mechanical Workshop Manager",
     experience: "20 Years' Experience",
     department: "Mechanical",
-    image: "/images/team-dickson.jpg",
+    image: "images/team-dickson.jpg",
     bio: "Dickson Mangau started employment with NITTEC (PNG) LIMITED as its Mechanical Workshop Manager in March 2019 and had been a great inspiration to the company. Mechanics under his leadership had done exceptionally well as he plays an important role as a role model and also training others to be more efficient with tasking.",
     education: [
       "Bishop Brothers Engineering - Lae: 2000–2004 (Apprenticeship Certificate in Heavy Equipment Fitter)",
@@ -26,7 +26,7 @@ const teamMembers = [
     role: "HEF / Mechanical Workshop Supervisor",
     experience: "8 Years' Experience",
     department: "Mechanical",
-    image: "/images/team-chris.jpg",
+    image: "images/team-chris.jpg",
     bio: "Chris Meresi is a hardworking supervisor whom had proven himself to be an asset in handling mechanical duties. He is well trained and is capable of getting difficult task done on time.",
     education: [
       "Automotive Training Solutions: 2017 (Automotive Air Conditioning Certificate 2)",
@@ -44,7 +44,7 @@ const teamMembers = [
     role: "Electrical / Motor Winding & HVACR Team Leader",
     experience: "40 Years' Experience",
     department: "Electrical",
-    image: "/images/team-beneti.jpg",
+    image: "images/team-beneti.jpg",
     bio: "Beneti Rupi is more matured and an over experienced Electrical employee that sees everything he does done more professionally and as it should be. His years' of experiences speaks for itself. A very committed and reliable asset to NITTEC (PNG) LIMITED.",
     education: [
       "NATTB: 1978–1979 (Electrical Trade Certificate)",
@@ -62,7 +62,7 @@ const teamMembers = [
     role: "Air Condition & Refrigeration Mechanic",
     experience: "15 Years' Experience",
     department: "HVACR",
-    image: "/images/team-james.jpg",
+    image: "images/team-james.jpg",
     bio: "James knows his capabilities as an experienced Refrigeration Mechanic and had been a constructive employee in his trade. His outcome with his tasking is impressive.",
     education: [
       "Malahang Technical School - Lae: 2010 (Certificate in Electrical)",
@@ -80,7 +80,7 @@ const teamMembers = [
     role: "Draftsman / Building Construction Team Leader",
     experience: "11 Years' Experience",
     department: "Construction",
-    image: "/images/team-neville.jpg",
+    image: "images/team-neville.jpg",
     bio: "Neville had been in the trade for more than a decade and an experienced Draftsman employed in NITTEC (PNG) LIMITED. He is committed to his work and gets things done on time for his Building & Maintenance Team to execute.",
     education: [
       "PNG National Polytechnic Institution - Lae: 2006 (Certificate in Drafting)",
